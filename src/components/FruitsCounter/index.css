@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.heading {
+  color: white;
+}
+.img {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  height: 20px;
+  width: 20px;
+}
+.bg-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.bg {
+  background-color: orange;
+  border: 10px;
+  border-color: white;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
